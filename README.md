@@ -16,7 +16,8 @@ I'm a passionate **Full Stack Web Developer** with over 8 years of experience in
 - Email: chenxidev1129@gmail.com
 
 **- 🔭 Fun fact:**
-I once built a web app that https://www.fluxdfs.com/.
+- I once built a web app that https://www.fluxdfs.com/.
 
 **- 📊 GitHub Stats:**
-![Your GitHub Stats](Your GitHub Stats Image URL)
+
+  ![Working from home](https://github.githubassets.com/assets/1f3e0-04e67e699536.png)
