@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Hai Chi! 👋
+I'm a passionate **Full Stack Web Developer** with over 8 years of experience in crafting digital solutions. Welcome to my GitHub profile! 🚀
 
-<!--
-**chenxidev1129/chenxidev1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**- 🌱 I’m currently working on:**
+- Developing robust web applications with **React.js**, **Node.js**, and **ASP.Net Core C#**.
+- Exploring advanced features in **AWS Services** for scalable solutions.
+- Enhancing skills in **Next.js** for dynamic and high-performance web applications.
 
-Here are some ideas to get you started:
+**- 🌟 I'm skilled in:**
+- Languages: PHP (Laravel, Codeigniter), JavaScript (Node.js, React.js), C#, HTML/CSS
+- Frameworks: React.js, Next.js, Express.js, Angular, ASP.Net Core, .NetFramework
+- CSS Frameworks: Tailwind CSS, Bootstrap
+- Cloud Services: AWS Services (specific services you're proficient in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**- 📫 How to reach me:**
+- Email: chenxidev1129@gmail.com
+
+**- 🔭 Fun fact:**
+I once built a web app that https://www.fluxdfs.com/.
+
+**- 📊 GitHub Stats:**
+![Your GitHub Stats](Your GitHub Stats Image URL)
