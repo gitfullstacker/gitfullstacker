@@ -46,9 +46,5 @@ My strength lies in architecting **complete, scalable digital products** that dr
 
 I’m currently available for **meaningful freelance collaborations** and ready to contribute to your next project. Whether you need a complete MVP, a complex system overhaul, or a technical partner to guide development, let’s connect.
 
-**📍 Location:** Italy (Remote Worldwide)  
-**🗣️ Languages:** English (Professional Fluency)  
-**📅 Freelancing Since:** January 2020
-
 
 *Open to discussions about short or long-term projects, technical consultations, and team leadership roles.*
