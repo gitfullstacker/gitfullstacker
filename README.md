@@ -1,13 +1,40 @@
-# 👋 Hi, Looking for a development partner?
+<div align="center">
+
+# 👋 Hi, I'm looking for a development partner?
 ### Senior Full-Stack Engineer | Technical Leader
 
 I'm a seasoned developer with over **10 years of professional experience** building sophisticated web and mobile applications, from concept to deployment.
 
 My strength lies in architecting **complete, scalable digital products** that drive real business value.
 
+</div>
+
 ---
 
 ## 🛠️ Core Skills & Tech Stack
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ### **Backend & API Development**
 - **PHP & Laravel** – Advanced framework mastery, RESTful API design, microservices
@@ -44,7 +71,10 @@ My strength lies in architecting **complete, scalable digital products** that dr
 
 ## 📬 Let's Build Together
 
+<div align="center">
+
 I’m currently available for **meaningful freelance collaborations** and ready to contribute to your next project. Whether you need a complete MVP, a complex system overhaul, or a technical partner to guide development, let’s connect.
 
-
 *Open to discussions about short or long-term projects, technical consultations, and team leadership roles.*
+
+</div>
