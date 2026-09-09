@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm looking for a development partner?
+# 👋 Hi, Are you looking for a development partner?
 ### Senior Full-Stack Engineer | Technical Leader
 
 I'm a seasoned developer with over **10 years of professional experience** building sophisticated web and mobile applications, from concept to deployment.
