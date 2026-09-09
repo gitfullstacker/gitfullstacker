@@ -28,6 +28,7 @@ My strength lies in architecting **complete, scalable digital products** that dr
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -45,6 +46,7 @@ My strength lies in architecting **complete, scalable digital products** that dr
 ### **Frontend & Mobile**
 - **React Ecosystem** – Expert in React.js and Next.js
 - **Cross-Platform Mobile** – Performant iOS/Android apps with React Native
+- **Kotlin** – Native Android development
 - **Modern Web** – TypeScript, state management (Redux, Context), component-driven architecture
 
 ### **Database & Infrastructure**
